@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 # Hello World
 
 This is a basic [Github Pages][gh_pages] site.
 
-[gh_pages] https://pages.github.com/
+[gh_pages]: https://pages.github.com/
